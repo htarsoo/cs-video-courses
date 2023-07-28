@@ -659,6 +659,7 @@ Table of Contents
 - [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
 - [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL0v718LJg-7_4Zwx3CE7kZ398mhlB2TqF473))
 - [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
+- [6.S096 Effective programming in C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/resources/lecture-notes/)
 - [MOOC - Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
 - [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
 - [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
